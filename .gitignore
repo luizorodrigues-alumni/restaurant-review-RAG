@@ -1,0 +1,11 @@
+# .env file
+.env
+
+# venv directory
+venv/
+
+# Chroma database files
+chroma_db/
+
+# pycache__ directories
+__pycache__/
